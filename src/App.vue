@@ -1,10 +1,24 @@
 <template>
-  <nav>
+<Navbar />
+  <!-- <nav>
     <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
+    <router-link to="/equipos">Equipos</router-link>
+  </nav> -->
   <router-view/>
 </template>
+
+
+<script>
+import Navbar from '@/components/Navbar.vue';
+export default {
+  name: 'App.vue',
+  components: {
+    Navbar
+  }
+}
+
+</script>
+
 
 <style>
 #app {

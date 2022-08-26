@@ -1,0 +1,121 @@
+{
+  "productos": [
+    {
+      "id": "2334",
+      "nombre": "Motorola G10",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 199000,
+      "precio_promo": 99000,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_601882-MLC47198741125_082021-O.webp"
+    },
+    {
+      "id": "2335",
+      "nombre": "Motorola G20",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 149000,
+      "precio_promo": 79000,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_738289-MLA48271492556_112021-O.webp"
+    },
+    {
+      "id": "2336",
+      "nombre": "Motorola G30",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 169000,
+      "precio_promo": 89000,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_979546-MLC50101777852_052022-O.webp"
+    },
+    {
+      "id": "2337",
+      "nombre": "Samsung A10",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 129000,
+      "precio_promo": 59000,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_837830-MLA44312104282_122020-O.webp"
+    },
+    {
+      "id": "2338",
+      "nombre": "Samsung A20",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 119000,
+      "precio_promo": 59000,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_808901-MLA44156251254_112020-O.webp"
+    },
+    {
+      "id": "2339",
+      "nombre": "Samsung A30",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 189000,
+      "precio_promo": 89000,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_768627-MLC49421406899_032022-O.webp"
+    },
+    {
+      "id": "2340",
+      "nombre": "Huawei Y6",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 139000,
+      "precio_promo": 79000,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_612213-MLA44155843700_112020-O.webp"
+    },
+    {
+      "id": "2341",
+      "nombre": "Huawei Y7",
+      "caracteristicas": [
+        "Camara 10 MPx",
+        "4 GB RAM",
+        "32 GB ROM",
+        "3G/4G",
+        "Chip Dual"
+      ],
+      "precio_normal": 149000,
+      "precio_promo": 69000,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_848385-MLA44156183425_112020-O.web"
+    }
+  ],
+  "pagedResult": {
+    "page": 1,
+    "size": 10,
+    "total": 12
+  }
+}
